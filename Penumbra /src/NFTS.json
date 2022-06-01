@@ -1,0 +1,119 @@
+[
+  {
+    "id": 0,
+    "name": "Francisco Guy",
+    "picture": "images/NFT1.png",
+    "Preco": 0.00127406,
+    "Description": "Diferentão"
+    
+  },
+  {
+    "id": 1,
+    "name": "Alfred",
+    "picture": "images/NFT2.png",
+    "Preco": 0.00127406,
+    "Description": "Fino Senhor"
+    
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/NFT3.png",
+    "Preco": 0.00127406,
+    "Description": "Astronauta"
+    
+  },
+  {
+    "id": 3,
+    "name": "Rubens Basket",
+    "picture": "images/NFT4.jpeg",
+    "Preco": 0.00127406,
+    "Description": "Basket Dog"
+    
+  },
+  {
+    "id": 4,
+    "name": "Lift Apok",
+    "picture": "images/NFT5.jpeg",
+    "Preco": 0.00127406,
+    "Description": "Mad max"
+  },
+  {
+    "id": 5,
+    "name": "Bomber Ronald",
+    "picture": "images/NFT6.jpeg",
+    "Preco": 0.00127406,
+    "Description": "Cão Bombeiro"
+  },
+  {
+    "id": 6,
+    "name": "Alexander",
+    "picture": "images/NFT7.png",
+    "Preco": 0.00127406,
+    "Description": "Coelho Vestido"
+  },
+  {
+    "id": 7,
+    "name": "Baltasar",
+    "picture": "images/NFT8.jpeg",
+    "Preco": 3,
+    "Description": "De Boa na lagoa"
+  },
+  {
+    "id": 8,
+    "name": "Xamã V4",
+    "picture": "images/NFT9.jpeg",
+    "Preco": 0.00127406,
+    "Description": "TUETUE"
+  },
+  {
+    "id": 9,
+    "name": "Frankster",
+    "picture": "images/NFT10.jpeg",
+    "Preco": 0.00127406,
+    "Description": "Monstro Frank"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/NFT11.jpeg",
+    "Preco": 0.00127406,
+    "Description": "Mini Astrounauta"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/NFT12.jpeg",
+    "Preco": 0.00127406,
+    "Description": "Normal Guy"
+  },
+  {
+    "id": 12,
+    "name": "Min-Jin",
+    "picture": "images/NFT13.png",
+    "Preco": 0.00127406,
+    "Description": "Free Fire"
+  },
+  {
+    "id": 13,
+    "name": "Deokman",
+    "picture": "images/NFT14.png",
+    "Preco": 0.00127406,
+    "Description": "Free Funny"
+  },
+  {
+    "id": 14,
+    "name": "Terry",
+    "picture": "images/NFT15.jpeg",
+    "Preco": 0.00127406,
+    "Description": "eletric angel"
+  },
+  {
+    "id": 15,
+    "name": "Ethel",
+    "picture": "images/NFT16.jpeg",
+    "Preco": 0.00127406,
+    "Description": "flame angel"
+    
+  }
+]
